@@ -1,0 +1,183 @@
+[
+  {
+    "type": "ENTERTAINMENT",
+    "category": "Giải trí",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/entertainment/bowling-ball.png",
+      "file:///android_asset/img_categories/entertainment/cinema.png",
+      "file:///android_asset/img_categories/entertainment/dance-floor.png",
+      "file:///android_asset/img_categories/entertainment/game.png",
+      "file:///android_asset/img_categories/entertainment/ghost.png",
+      "file:///android_asset/img_categories/entertainment/gun.png",
+      "file:///android_asset/img_categories/entertainment/radio.png",
+      "file:///android_asset/img_categories/entertainment/shuttlecock.png",
+      "file:///android_asset/img_categories/entertainment/ski.png",
+      "file:///android_asset/img_categories/entertainment/soccer-ball.png",
+      "file:///android_asset/img_categories/entertainment/strategy.png",
+      "file:///android_asset/img_categories/entertainment/talent-hunt.png"
+    ]
+  },
+  {
+    "type": "FOOD",
+    "category": "Đồ ăn",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/food/boil.png",
+      "file:///android_asset/img_categories/food/chinese-food.png",
+      "file:///android_asset/img_categories/food/conveyor-belt.png",
+      "file:///android_asset/img_categories/food/cooking.png",
+      "file:///android_asset/img_categories/food/eco-food.png",
+      "file:///android_asset/img_categories/food/fish.png",
+      "file:///android_asset/img_categories/food/french-fries.png",
+      "file:///android_asset/img_categories/food/fried-chicken.png",
+      "file:///android_asset/img_categories/food/hamburger.png",
+      "file:///android_asset/img_categories/food/healthy-drink.png",
+      "file:///android_asset/img_categories/food/hot-dog.png",
+      "file:///android_asset/img_categories/food/ice-cream.png",
+      "file:///android_asset/img_categories/food/lunch-box.png",
+      "file:///android_asset/img_categories/food/pet-food.png",
+      "file:///android_asset/img_categories/food/pizza.png",
+      "file:///android_asset/img_categories/food/products.png",
+      "file:///android_asset/img_categories/food/shrimp.png",
+      "file:///android_asset/img_categories/food/snacks.png",
+      "file:///android_asset/img_categories/food/taco.png",
+      "file:///android_asset/img_categories/food/vegetable.png"
+    ]
+  },
+  {
+    "type": "SHOPPING",
+    "category": "Mua sắm",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/shopping/bikini.png",
+      "file:///android_asset/img_categories/shopping/dress.png",
+      "file:///android_asset/img_categories/shopping/hat.png",
+      "file:///android_asset/img_categories/shopping/high-heels.png",
+      "file:///android_asset/img_categories/shopping/icons8-jewelry-64.png",
+      "file:///android_asset/img_categories/shopping/lipstick.png",
+      "file:///android_asset/img_categories/shopping/sedan.png",
+      "file:///android_asset/img_categories/shopping/shopping-bag.png",
+      "file:///android_asset/img_categories/shopping/shorts.png",
+      "file:///android_asset/img_categories/shopping/vip.png",
+      "file:///android_asset/img_categories/shopping/wristwatch.png"
+    ]
+  },
+  {
+    "type": "PERSONAL",
+    "category": "Cá nhân",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/personal/candle.png",
+      "file:///android_asset/img_categories/personal/flower-bouquet.png",
+      "file:///android_asset/img_categories/personal/hair-cut-tool.png",
+      "file:///android_asset/img_categories/personal/lipstick.png",
+      "file:///android_asset/img_categories/personal/love.png",
+      "file:///android_asset/img_categories/personal/parents.png",
+      "file:///android_asset/img_categories/personal/piano.png",
+      "file:///android_asset/img_categories/personal/wristwatch.png"
+    ]
+  },
+  {
+    "type": "EDUCATION",
+    "category": "Giáo dục",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/education/calculating.png",
+      "file:///android_asset/img_categories/education/color-palette.png",
+      "file:///android_asset/img_categories/education/earth.png",
+      "file:///android_asset/img_categories/education/education.png",
+      "file:///android_asset/img_categories/education/exam.png",
+      "file:///android_asset/img_categories/education/robot.png",
+      "file:///android_asset/img_categories/education/school.png",
+      "file:///android_asset/img_categories/education/stethoscope.png",
+      "file:///android_asset/img_categories/education/teacher.png",
+      "file:///android_asset/img_categories/education/telescope.png",
+      "file:///android_asset/img_categories/education/test.png"
+    ]
+  },
+  {
+    "type": "FESTIVAL",
+    "category": "Ngày hội",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/festival/birth-day.png",
+      "file:///android_asset/img_categories/festival/confetti.png",
+      "file:///android_asset/img_categories/festival/happy-new-year.png",
+      "file:///android_asset/img_categories/festival/jack-o-lantern.png",
+      "file:///android_asset/img_categories/festival/snowman.png"
+    ]
+  },
+  {
+    "type": "SPORTS",
+    "category": "Thể thao",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/sports/cricket.png",
+      "file:///android_asset/img_categories/sports/dumbbell.png",
+      "file:///android_asset/img_categories/sports/football.png",
+      "file:///android_asset/img_categories/sports/kayak.png",
+      "file:///android_asset/img_categories/sports/sport-car.png",
+      "file:///android_asset/img_categories/sports/sports.png",
+      "file:///android_asset/img_categories/sports/sports1.png",
+      "file:///android_asset/img_categories/sports/stadium.png",
+      "file:///android_asset/img_categories/sports/strategy.png",
+      "file:///android_asset/img_categories/sports/support.png",
+      "file:///android_asset/img_categories/sports/surfing.png",
+      "file:///android_asset/img_categories/sports/swimming.png",
+      "file:///android_asset/img_categories/sports/tennis.png",
+      "file:///android_asset/img_categories/sports/volleyball.png",
+      "file:///android_asset/img_categories/sports/windsurfing.png"
+    ]
+  },
+  {
+    "type": "OFFICE",
+    "category": "Văn phòng",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/office/diskette.png",
+      "file:///android_asset/img_categories/office/document.png",
+      "file:///android_asset/img_categories/office/mouse.png",
+      "file:///android_asset/img_categories/office/printer.png",
+      "file:///android_asset/img_categories/office/usb-drive.png",
+      "file:///android_asset/img_categories/office/wifi-router.png",
+      "file:///android_asset/img_categories/office/workspace.png"
+    ]
+  },
+  {
+    "type": "TRANSPORTATION",
+    "category": "Vận tải",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/transportation/air-plane.png",
+      "file:///android_asset/img_categories/transportation/bus.png",
+      "file:///android_asset/img_categories/transportation/cargo-ship.png",
+      "file:///android_asset/img_categories/transportation/electric-bicycle.png",
+      "file:///android_asset/img_categories/transportation/public-transport.png",
+      "file:///android_asset/img_categories/transportation/train.png",
+      "file:///android_asset/img_categories/transportation/truck.png"
+    ]
+  },
+  {
+    "type": "HEALTH",
+    "category": "Sức khỏe",
+    "transactionType": "SPEND",
+    "paths": [
+      "file:///android_asset/img_categories/health/ambulance.png",
+      "file:///android_asset/img_categories/health/health-check.png",
+      "file:///android_asset/img_categories/health/infused-water.png",
+      "file:///android_asset/img_categories/health/injection.png",
+      "file:///android_asset/img_categories/health/medicine.png",
+      "file:///android_asset/img_categories/health/mental-health.png",
+      "file:///android_asset/img_categories/health/stethoscope.png"
+    ]
+  },
+  {
+    "type": "OTHER",
+    "transactionType": "SPEND",
+    "category": "Khác",
+    "paths": [
+      "file:///android_asset/img_categories/orther/application.png"
+    ]
+  }
+]

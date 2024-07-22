@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Quản lý Chi tiêu</string>
+    <!--    Main-->
+    <string name="home">Trang chủ</string>
+    <string name="graph">Biểu đồ</string>
+    <string name="report">Báo cáo</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="expense">Chi phí</string>
+    <string name="income">Thu nhập</string>
+    <string name="surplus">Số dư</string>
+    <!--Details-->
+    <string name="type">Loại</string>
+    <string name="amount_of_money">Số tiền</string>
+    <string name="day">Ngày</string>
+    <string name="note">Ghi chú</string>
+    <string name="image">Hình ảnh</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <!--Add Expense-->
+    <string name="add_expense">Thêm Chi phí</string>
+    <string name="gallery">Thư viện</string>
+    <string name="camera">Máy ảnh</string>
+    <string name="mth">Thg</string>
+    <string name="year">Năm</string>
+    <string name="month">Tháng</string>
+    <string name="setting">Cài đặt</string>
+    <string name="setting_category">Cài đặt Danh mục</string>
+    <string name="add_category">Thêm Danh mục</string>
+    <string name="edit_category">Chỉnh sửa Danh mục</string>
+    <string name="other">Khác</string>
+
+    <string name="total_balance">Tổng số dư</string>
+    <string name="search">Tìm kiếm</string>
+
+    <string name="category_settings">Cài đặt Danh mục</string>
+    <string name="time_format">Định dạng thời gian</string>
+    <string name="currency_format">Định dạng tiền tệ</string>
+    <string name="password">Mật khẩu</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="theme">Chủ đề</string>
+    <string name="delete_all_data">Xóa tất cả dữ liệu</string>
+    <string name="export_excel">Xuất Excel</string>
+    <string name="light_mode">Chế độ sáng</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="reminder">Nhắc nhở</string>
+    <string name="reminder_item_name">Tên mục nhắc nhở</string>
+    <string name="add_reminders">Thêm nhắc nhở</string>
+    <string name="repeat_mode">Chế độ lặp lại</string>
+    <string name="title">Tiêu đề</string>
+    <string name="add_cate">Thêm danh mục</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="reminder_list">Danh sách nhắc nhở</string>
+    <string name="delete_after_reminder">Xóa sau khi nhắc nhở</string>
+    <string name="please_enter">Vui lòng nhập tên danh mục của bạn</string>
+    <string name="selected_date">Chọn Tháng - Năm</string>
+    <string name="selected_year">Chọn Năm</string>
+    <string name="delete_warning_dialog_title">Cảnh báo!!!</string>
+    <string name="delete_warning_dialog_text">Bạn không thể khôi phục sau khi xóa mục này</string>
+    <string name="delete_warning_dialog_confirm">Xóa</string>
+    <string name="notification_dialog_title">Thông báo</string>
+    <string name="notification_dialog_text">Các bản ghi liên quan sẽ không bị ảnh hưởng</string>
+    <string name="notification_dialog_confirm">Xóa</string>
+    <string name="notification_dialog_dismiss">Hủy</string>
+    <string name="first_input_tip">Nhập mật mã gồm %1$d chữ số</string>
+    <string name="second_input_tip">Nhập lại mật mã mới</string>
+    <string name="wrong_length_tip">Nhập mật mã gồm %1$d chữ số</string>
+    <string name="wrong_input_tip">Mật mã không khớp</string>
+    <string name="correct_input_tip">Mật mã chính xác</string>
+    <string name="enter_pass">Nhập mật khẩu</string>
+    <string name="change_your_password">Thay đổi mật khẩu của bạn</string>
+    <string name="remove_password">Xóa mật khẩu</string>
+    <string name="warning">Cảnh báo</string>
+    <string name="mess_kill_app">Bạn sẽ bị thoát khỏi ứng dụng và  xóa tất cả dữ liệu của bạn như khi bạn cài đặt lần đầu tiên</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Hủy</string>
+    <string name="repeat_daily">Hàng ngày</string>
+    <string name="repeat_weekly">Hàng tuần</string>
+    <string name="repeat_once">Một lần</string>
+</resources>

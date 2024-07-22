@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Expanse Management</string>
+    <!--    Main-->
+    <string name="home">Home</string>
+    <string name="graph">Graph</string>
+    <string name="report">Report</string>
+    <string name="profile">Profile</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="surplus">Surplus</string>
+    <!--Details-->
+    <string name="type">Type</string>
+    <string name="amount_of_money">Amount of money</string>
+    <string name="day">Day</string>
+    <string name="note">Note</string>
+    <string name="image">Image</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <!--Add Expense-->
+    <string name="add_expense">Add Expense</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="mth">Mth</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="setting">Setting</string>
+    <string name="setting_category">Setting Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="edit_category">Edit Category</string>
+    <string name="other">Other</string>
+
+    <string name="total_balance">Total balance</string>
+    <string name="search">Search</string>
+
+    <string name="category_settings">Category settings</string>
+    <string name="time_format">Time format</string>
+    <string name="currency_format">Currency format</string>
+    <string name="passord">Password</string>
+    <string name="language">Language</string>
+    <string name="theme">Theme</string>
+    <string name="delete_all_data">Delete all data</string>
+    <string name="export_excel">Export excel</string>
+    <string name="light_mode">Light mode</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="reminder">Reminder</string>
+    <string name="reminder_item_name">Reminder item name</string>
+    <string name="add_reminders">Add reminders</string>
+    <string name="repeat_mode">Repeat mode</string>
+    <string name="title">Title</string>
+    <string name="add_cate">Add category</string>
+    <string name="no_data">No data</string>
+    <string name="reminder_list">Reminder list</string>
+     <string name="delete_after_reminder">Delete after reminder</string>
+    <string name="please_enter">Please enter your category name</string>
+    <string name="selected_date">Selected date</string>
+    <string name="selected_year">Selected year</string>
+    <string name="delete_warning_dialog_title">Warning!!!</string>
+    <string name="delete_warning_dialog_text">You cannot restore after deleting this item</string>
+    <string name="delete_warning_dialog_confirm">Delete</string>
+    <string name="notification_dialog_title">Notification</string>
+    <string name="notification_dialog_text">Related records will not be affected</string>
+    <string name="notification_dialog_confirm">Delete</string>
+    <string name="notification_dialog_dismiss">Cancel</string>
+    <string name="first_input_tip">Enter a passcode of %1$d digits</string>
+    <string name="second_input_tip">Re-enter new passcode</string>
+    <string name="wrong_length_tip">Enter a passcode of %1$d digits</string>
+    <string name="wrong_input_tip">Passcode does not match</string>
+    <string name="correct_input_tip">Passcode is correct</string>
+    <string name="enter_pass">Enter password</string>
+    <string name="change_your_password">Change your password</string>
+    <string name="remove_password">Remove Password</string>
+    <string name="warning">Warning</string>
+    <string name="mess_kill_app">You will be logged out of the app and all your data will be erased as if you are installing it for the first time.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="repeat_daily">Daily</string>
+    <string name="repeat_weekly">Weekly</string>
+    <string name="password">Password</string>
+
+    <string name="repeat_once">Once</string>
+</resources>

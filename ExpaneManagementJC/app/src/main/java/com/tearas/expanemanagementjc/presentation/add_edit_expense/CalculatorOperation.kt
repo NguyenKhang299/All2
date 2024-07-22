@@ -1,0 +1,7 @@
+package com.tearas.expanemanagementjc.presentation.add_edit_expense
+sealed class CalculatorOperation(val symbol: String) {
+    object Add: CalculatorOperation("+")
+    object Subtract: CalculatorOperation("-")
+    object Multiply: CalculatorOperation("x")
+    object Divide: CalculatorOperation("/")
+}
